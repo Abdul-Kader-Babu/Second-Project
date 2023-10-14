@@ -1,0 +1,359 @@
+@media (max-width:360px){
+p{
+    font-size: .7rem;
+}
+h5{
+    font-size: 1.4rem;
+}
+    .container{
+        padding: 0rem 1rem;
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    
+    
+    .logo h3{
+        font-size: .6rem;
+        padding-top: .2rem;
+    }
+    .nav ul{
+        gap: .8rem;
+    }
+    .nav nav ul li a{
+        font-size: .4rem;
+    }
+    .Contact a{
+        font-size: .4rem;
+        padding: .4rem .6rem;
+       
+
+    }
+    .Contact a:hover{
+       
+        border-radius: 0rem;
+    
+    }
+    .bottom{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 25rem;
+    }
+    .leftofheader {
+        order: 2;
+        gap: 1rem;
+    }
+    .leftofheader h1{
+        font-size: 2rem;
+    }
+    .leftofheader p{
+        font-size: .7rem;
+        text-align: justify;
+    }
+    .leftofheader a{
+        margin-top: 2rem;
+    }
+    .rightofheaderr{
+        order: 1;
+    }
+    
+    .bottomimg img{
+        display: none;
+        
+    }
+    .topimg img{
+        transform: rotate(-7deg);
+        width: 20rem;
+        height: 100%;
+        margin-left: -.7rem;
+    }
+/* header end here  */
+
+/* process of work here  */
+.process-off-work-section-main{
+    margin-top: 5rem;
+}
+.process-off-work-section-top{
+    gap: .2rem;
+    max-width: 80%;
+}
+.process-off-work-section-top h3{
+    font-size: 1.2rem;
+    padding-bottom: 0rem;
+    
+}
+.process-off-work-section-top p{
+    font-size: .7rem;
+    padding: 1rem 0rem;
+}
+    
+.process-of-work-section-bottom{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem 0rem;
+}
+.contact-with-us{
+    height: 15rem;
+    width: 20rem;
+    gap: .9rem;
+    margin: 0 auto;
+}
+.contact-with-us img{
+ width: 6rem;   
+ height: 6rem;
+}
+.contact-with-us h4{
+    margin-top: .6rem;
+}
+.contact-with-us p{
+    font-size: .7rem;
+    text-align: justify;
+    padding-top:0rem ;
+}
+.inform-about-project{
+    height: 15rem;
+    width: 20rem;
+    gap: .9rem;
+    margin: 0 auto;
+}
+.inform-about-project img{
+    width: 6rem;   
+    height: 6rem;
+}
+.inform-about-project h4{
+    margin-top: .6rem;
+}
+.inform-about-project p{
+    font-size: .7rem;
+    text-align: justify;
+    padding-top:0rem ;
+}
+.creating-new-project{
+    height: 15rem;
+    width: 20rem;
+    gap: .9rem;
+    margin: 0 auto;
+}
+.creating-new-project img{
+    width: 6rem;   
+    height: 6rem;
+}
+.creating-new-project h4{
+    margin-top: .6rem;
+}
+.creating-new-project p{
+    font-size: .7rem;
+    text-align: justify;
+    padding-top:0rem ;
+}
+/* process of work end here  */
+.see-our-recent{
+    margin-top: 6rem;
+}
+.see-our-recent-top{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.see-our-recent h3{
+    font-size: 1.4rem;
+    text-align: left;
+}
+.see-our-recent p{
+    font-size: .7rem;
+    text-align: justify;
+    height: 2rem;
+    width: 19rem;
+    
+}
+.Arrow-right{
+   
+    margin-top: 2rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: .2rem;
+    
+
+        }
+    
+    .Arrow-right i{
+       
+        display: none;
+       
+        
+        
+    }
+    .Arrow-right p{
+        padding-left: 3.8rem;
+        display: flex;
+        justify-content: flex-start;
+        
+    }
+    .see-our-recent{
+        display: flex;
+        flex-direction: column;
+    }
+    .see-our-recent-middle{
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+
+    }
+
+    .cryto{
+        margin-bottom: 1rem;
+        gap: .8rem;
+        display: flex;
+        flex-direction: column;
+    }
+    .cryto img{
+        height: 15rem;
+        width: 18rem;
+        margin: 0 auto;
+        
+    }
+    .cloud-app{
+        margin-bottom: 1rem;
+        gap: .8rem;
+    }
+    .cloud-app img{
+        height: 15rem;
+        width: 18rem;
+        margin: 0 auto;
+    }
+    .see-our-cecent-end{
+        display: flex;
+        flex-direction: column;
+        margin-top: -1.5rem;
+        
+        
+    }
+    .Weather img{
+        height: 15rem;
+        width: 18rem;
+        margin: 0 auto;
+    }
+    .weader-heading-paragraph{
+        margin-top: 1rem;
+        gap: .8rem;
+    }
+
+    .Finance {
+        display: flex;
+        flex-direction: column;
+        position: static;
+    }
+
+    .Finance img {
+        
+        height: 15rem;
+        width: 15rem;
+        margin: 0 auto;
+        margin-left: -.1rem;
+
+}
+
+/* see our recent end here  */
+.Skills{
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem -2rem;
+}
+
+
+   
+    .year-of-experience h5{
+        display: flex;
+    }
+
+
+    /* revies start here  */
+
+
+
+    .top-of-review{
+        gap: 1rem;
+    }
+    .top-of-review p{
+        text-align: justify;
+    }
+    .top-of-review h2{
+        font-size: 1.6rem;
+        margin-left: -1.2rem;
+    }
+
+    .middle-of-review{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin: 80px 0px;
+        gap: 4rem;
+     }
+     .david-miller{
+        height: 15rem;
+        width: 20rem;
+        margin: 0 auto;
+     }
+     .Adam-milne{
+        height: 15rem;
+        width: 20rem;
+        margin: 0 auto;
+     }
+     .Joe-Root{
+        height: 15rem;
+        width: 20rem;
+        margin: 0 auto;
+     }
+
+     .bottom-of-review{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-content: space-between;
+        gap: 8rem;
+     }
+
+     .left-part-of-botto-review textarea{
+        width: 19rem ;
+        padding: 15px;
+        
+     }
+     .left-part-of-botto-review input {
+       
+        width: 19rem ;
+       
+                
+     }
+     .left-part-of-botto-review input:hover{
+        width: 19rem;
+     }
+
+     .right-part-of-review h2{
+        font-size: 1.6rem;
+     }
+    .right-part-of-review p{
+        width: 19rem;
+        margin-bottom: 2rem;
+        margin-top: -.8rem;
+    } 
+    .right-part-of-review-bottom {
+        width: 19rem;
+    }
+    .right-part-of-review-bottom span{
+        font-size: .8rem;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        gap: 4rem;
+    }
+    .footer h3{
+        font-size: 1.4rem;
+    }
+    .right-footer h5{
+        font-size: 1.2rem;
+    }
+}
+
